@@ -1,0 +1,2 @@
+loadbulk-resource
+=================
